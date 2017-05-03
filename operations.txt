@@ -1,0 +1,27 @@
+it clone url 克隆版本库
+git log 历史版本 git log --stat
+git diff 两版本比较
+git checkout 对版本控制的信心
+
+创建自己的代码库
+git init(目录下)    ls -a（文件列表）    git status
+
+commit
+git add    staging area
+git commit
+
+暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+staging area 在两者之间 传递作用
+
+branch
+git branch
+不同类型的改变 不同的人协作
+git log --graph --oneline master coins
+parent commit
+图表
+
+git merge 
+git show
+git branch -d 
+
+merge conflict
